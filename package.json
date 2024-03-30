@@ -1,9 +1,10 @@
 {
-  "name": "number-guessing_game",
+  "name": "number-guessing_game_by_saba_hussain",
   "version": "1.0.0",
   "description": "A number guessing game by using typescript",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
